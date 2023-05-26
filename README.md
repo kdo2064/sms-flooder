@@ -23,7 +23,7 @@ command for termux.
 
 * `pkg  install python3`
 
-* `git clone https://github.com/kdo2064/Tool-Hub](https://github.com/kdo2064/sms-flooder`
+* `git clone https://github.com/kdo2064/sms-flooder`
 
 * `cd sms-flooder`
 
@@ -38,7 +38,7 @@ command for Debian.
 
 * `sudo install git`
 
-* `git clone https://github.com/kdo2064/Tool-Hub](https://github.com/kdo2064/sms-flooder`
+* `git clone https://github.com/kdo2064/sms-flooder`
 
 * `cd sms-flooder`
 
