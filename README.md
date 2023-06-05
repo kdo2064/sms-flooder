@@ -50,3 +50,5 @@ command for Debian.
 **Warning**
 
 We are not responsible for any misuse or damage caused by this program. use this tool for fun only!
+
+<img src="https://profile-counter.glitch.me/kdo2064/count.svg" alt="Visitors">
